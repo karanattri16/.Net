@@ -1,0 +1,84 @@
+D:\Transaction Project\Transaction Project\bin\Transaction Project.dll.config
+D:\Transaction Project\Transaction Project\bin\Transaction Project.dll
+D:\Transaction Project\Transaction Project\bin\Transaction Project.pdb
+D:\Transaction Project\Transaction Project\bin\roslyn\csc.exe
+D:\Transaction Project\Transaction Project\bin\roslyn\csc.exe.config
+D:\Transaction Project\Transaction Project\bin\roslyn\csc.rsp
+D:\Transaction Project\Transaction Project\bin\roslyn\csi.exe
+D:\Transaction Project\Transaction Project\bin\roslyn\csi.exe.config
+D:\Transaction Project\Transaction Project\bin\roslyn\csi.rsp
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Transaction Project\Transaction Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Transaction Project\Transaction Project\bin\roslyn\System.AppContext.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Console.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.IO.Compression.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.IO.Pipes.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Claims.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.ValueTuple.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Xml.XPath.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Transaction Project\Transaction Project\bin\roslyn\vbc.exe
+D:\Transaction Project\Transaction Project\bin\roslyn\vbc.exe.config
+D:\Transaction Project\Transaction Project\bin\roslyn\vbc.rsp
+D:\Transaction Project\Transaction Project\bin\roslyn\VBCSCompiler.exe
+D:\Transaction Project\Transaction Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Transaction Project\Transaction Project\bin\AutoMapper.dll
+D:\Transaction Project\Transaction Project\bin\Data Layer Transaction.dll
+D:\Transaction Project\Transaction Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Transaction Project\Transaction Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Transaction Project\Transaction Project\bin\Service Layer Transaction.dll
+D:\Transaction Project\Transaction Project\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.Helpers.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.Mvc.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.Razor.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.Deployment.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.dll
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.Razor.dll
+D:\Transaction Project\Transaction Project\bin\Unity.Abstractions.dll
+D:\Transaction Project\Transaction Project\bin\Unity.Container.dll
+D:\Transaction Project\Transaction Project\bin\Unity.Mvc5.dll
+D:\Transaction Project\Transaction Project\bin\Data Layer Transaction.pdb
+D:\Transaction Project\Transaction Project\bin\Data Layer Transaction.dll.config
+D:\Transaction Project\Transaction Project\bin\Service Layer Transaction.pdb
+D:\Transaction Project\Transaction Project\bin\Service Layer Transaction.dll.config
+D:\Transaction Project\Transaction Project\bin\AutoMapper.xml
+D:\Transaction Project\Transaction Project\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.Helpers.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.Mvc.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.Razor.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.Deployment.xml
+D:\Transaction Project\Transaction Project\bin\System.Web.WebPages.Razor.xml
+D:\Transaction Project\Transaction Project\bin\Unity.Abstractions.pdb
+D:\Transaction Project\Transaction Project\bin\Unity.Container.pdb
+D:\Transaction Project\Transaction Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Transaction Project\Transaction Project\obj\Debug\Transaction Project.csprojAssemblyReference.cache
+D:\Transaction Project\Transaction Project\obj\Debug\Transaction Project.csproj.CoreCompileInputs.cache
+D:\Transaction Project\Transaction Project\obj\Debug\Transaction Project.csproj.CopyComplete
+D:\Transaction Project\Transaction Project\obj\Debug\Transaction Project.dll
+D:\Transaction Project\Transaction Project\obj\Debug\Transaction Project.pdb

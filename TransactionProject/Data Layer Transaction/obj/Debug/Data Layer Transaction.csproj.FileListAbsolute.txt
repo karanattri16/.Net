@@ -1,0 +1,27 @@
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Data Layer Transaction.dll.config
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Data Layer Transaction.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Data Layer Transaction.pdb
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Helpers.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Mvc.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Razor.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Unity.Abstractions.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Unity.Container.dll
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Helpers.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Mvc.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.Razor.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Unity.Abstractions.pdb
+D:\Transaction Project\Data Layer Transaction\bin\Debug\Unity.Container.pdb
+D:\Transaction Project\Data Layer Transaction\obj\Debug\Data Layer Transaction.csprojAssemblyReference.cache
+D:\Transaction Project\Data Layer Transaction\obj\Debug\Data Layer Transaction.csproj.CoreCompileInputs.cache
+D:\Transaction Project\Data Layer Transaction\obj\Debug\Data Layer Transaction.csproj.CopyComplete
+D:\Transaction Project\Data Layer Transaction\obj\Debug\Data Layer Transaction.dll
+D:\Transaction Project\Data Layer Transaction\obj\Debug\Data Layer Transaction.pdb
