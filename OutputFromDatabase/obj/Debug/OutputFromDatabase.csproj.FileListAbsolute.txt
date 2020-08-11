@@ -1,0 +1,7 @@
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\bin\Debug\OutputFromDatabase.exe.config
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\bin\Debug\OutputFromDatabase.exe
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\bin\Debug\OutputFromDatabase.pdb
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\obj\Debug\OutputFromDatabase.csprojAssemblyReference.cache
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\obj\Debug\OutputFromDatabase.csproj.CoreCompileInputs.cache
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\obj\Debug\OutputFromDatabase.exe
+F:\karan\Visual studio ultimate 2012\MVC\OutputFromDatabase\obj\Debug\OutputFromDatabase.pdb
